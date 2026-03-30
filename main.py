@@ -10,7 +10,7 @@ fal.key = "784ceacd-7957-42f4-a7e9-c9d094853cd0:dd65c2bb4003dcf2bd877681485dbcdb
 
 user_photos = {}
 
-# Aynı sex pozları
+# Aynı sex pozları11
 PROMPTS = {
     "tamamen_ciplak": "exact same woman, completely naked, detailed realistic skin, perfect body, same face, photorealistic, 8k",
     "memeleri_avucla": "exact same woman, completely naked, both hands squeezing her own breasts hard, aroused face, detailed nipples",
