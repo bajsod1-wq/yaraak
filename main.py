@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Escrow + Wallet Bot v5.0
-pip install aiogram==3.7.0 aiosqlite aiohttp tronpy eth-account web3
+pip install aiogram==3.7.0 aiosqlite aiohttp tronpy eth-account wennb3
 """
 
 import asyncio
